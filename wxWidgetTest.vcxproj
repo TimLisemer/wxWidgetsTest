@@ -22,6 +22,7 @@
     <ClInclude Include="absolute.h" />
     <ClInclude Include="align.h" />
     <ClInclude Include="border.h" />
+    <ClInclude Include="customButton.h" />
     <ClInclude Include="gotoclass.h" />
     <ClInclude Include="main.h" />
     <ClInclude Include="sizer.h" />
@@ -30,6 +31,7 @@
     <ClCompile Include="absolute.cpp" />
     <ClCompile Include="align.cpp" />
     <ClCompile Include="border.cpp" />
+    <ClCompile Include="customButton.cpp" />
     <ClCompile Include="gotoclass.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="sizer.cpp" />

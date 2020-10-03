@@ -33,6 +33,9 @@
     <ClInclude Include="gotoclass.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="customButton.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="absolute.cpp">
@@ -51,6 +54,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="gotoclass.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="customButton.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
